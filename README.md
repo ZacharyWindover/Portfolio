@@ -13,7 +13,7 @@
 
 - Email Spam Detection System (Java)
 
-Projects I'm Currently Working On:
+## Projects I'm Currently Working On:
 - First-Person Zombie shooter (Unreal Engine)
 
 - AI Chatbot (Python) (PyTorch)
