@@ -1,6 +1,6 @@
 # This is a Virtual Portfolio showcasing some of my best projects, the projects I've put the most effort into that I'm confident to showcase as the summation of my learning at Ontario Tech University 
 
-Projects Completed In University:
+## Projects Completed In University:
 - First-Person Shooter Game (C#) (Unity)
   A group project with Andrew Clegg for an Interactive Media course where we createda a rough implementation of a first-person shooter video game concept using the Unity game engine.
   
