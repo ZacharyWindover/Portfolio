@@ -9,6 +9,8 @@ A group project with Andrew Clegg for an Interactive Media course where we creat
 An individual project for Advanced Graphics and Parallel Programming courses, I created and improved upon on a ray tracing program that took simple 3D shapes (cubes and spheres) with basic materials (solid colours and chromatic reflective surfaces), and rendered ppm images using ray tracing. The program had user input with command prompt, where the user would enter the image width, samples per pixel, max depth, and render type (the lighting, objects, and their positions were hard coded), and the program would return a ppm image. The program used the command line to output and update the amount of lines remaining to create the image.
 
 ### Online Book Reader Implementation
+![Online Book System Sample Implementation 2024-10-14 2_28_43 PM](https://github.com/user-attachments/assets/2015baaa-3f40-4b09-97e4-218bc2a6fbed)
+
 ![Online Book System Sample Implementation 2024-10-14 2_30_42 PM](https://github.com/user-attachments/assets/64e9085d-97e2-4448-8bf8-63e65dde97d9)
 
 ### File Sharing System (Java) (Java.io) (Java FX)
