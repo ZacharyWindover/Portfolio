@@ -20,6 +20,7 @@ An individual project for Advanced Graphics and Parallel Programming courses, I 
 
 ## Projects I'm Currently Working On:
 - First-Person Zombie shooter (Unreal Engine)
+![ZombieFPS - Unreal Editor 2024-10-14 2_44_16 PM](https://github.com/user-attachments/assets/dcba7d13-d12b-4a81-91b6-6153cadc32a8)
 
 - AI Chatbot (Python) (PyTorch)
 
