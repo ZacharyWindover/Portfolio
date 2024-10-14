@@ -1,6 +1,18 @@
 # This is a Virtual Portfolio showcasing some of my best projects, the projects I've put the most effort into that I'm confident to showcase as the summation of my learning at Ontario Tech University 
 
 ## Projects Completed In University:
+![major-group-project-2-clegg-windover - Scenario 1 - Windows, Mac, Linux - Unity 2022 3 16f1 _DX11_ 10_14_2024 2_54_18 PM](https://github.com/user-attachments/assets/65017844-050f-4677-b547-99319a8d8a43)
+
+![major-group-project-2-clegg-windover - Scenario 1 - Windows, Mac, Linux - Unity 2022 3 16f1 _DX11_ 10_14_2024 2_50_57 PM](https://github.com/user-attachments/assets/1fbea975-f714-4c31-a5ed-8254a6dd5671)
+
+![major-group-project-2-clegg-windover - Scenario 1 - Windows, Mac, Linux - Unity 2022 3 16f1 _DX11_ 10_14_2024 2_51_36 PM](https://github.com/user-attachments/assets/7ca881e0-5c79-45c8-a9a6-47cb79038ce6)
+
+![major-group-project-2-clegg-windover - Scenario 1 - Windows, Mac, Linux - Unity 2022 3 16f1 _DX11_ 10_14_2024 2_52_07 PM](https://github.com/user-attachments/assets/f8f60f07-2f5d-4d9d-83c0-0d46e0164a62)
+
+![major-group-project-2-clegg-windover - Scenario 1 - Windows, Mac, Linux - Unity 2022 3 16f1 _DX11_ 10_14_2024 2_52_24 PM](https://github.com/user-attachments/assets/fb7dedf0-2ebd-433f-bded-de718176e8dd)
+
+![major-group-project-2-clegg-windover - Scenario 1 - Windows, Mac, Linux - Unity 2022 3 16f1 _DX11_ 10_14_2024 2_52_34 PM](https://github.com/user-attachments/assets/13ffc88c-12ac-4b76-8583-484896af0d88)
+
 
 ### First-Person Shooter Game (C#) (Unity)
 A group project with Andrew Clegg for an Interactive Media course where we createda a rough implementation of a first-person shooter video game concept using the Unity game engine.
