@@ -47,7 +47,7 @@ A decoder-only transformer-type neural network large language model. Currently i
 ### File Sharing System (V0.2) (Java) (.io) (JavaFX)
 Building upon the first variation of my file sharing application, I plan on adding numerous features such as proper accounts and login, reformatting the layout to be more user-friendly and organized, have a built-in file viewer, and add and expand other features.
 
-### Media Hub (Java)
+### Media Suite (Java)
 Inspired by the file sharing application, I plan on making an array of programs similar to YouTube and Spotify/SoundCloud where people could upload videos, music, etc. The goal is to make a solid alternative to platforms like Twitch, YouTube, and Amazon Music, who have terrible practices, are unfair and obviously biased towards certain types of streamers, and have terrible copyright and user support.
 
 ### E-Commerce Website (HTML)(CSS)(JS)
