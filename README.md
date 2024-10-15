@@ -36,8 +36,6 @@ A basic file sharing application using Java sockets and JavaFX. This was the fir
 ![File Sharing Server Client 2024-10-14 4_08_51 PM](https://github.com/user-attachments/assets/8f55e299-d1a7-4fd4-a16c-d23654351b54)
 
 
-### Email Spam Detection System (Java)
-
 ## Projects I'm Currently Working On:
 - First-Person Zombie shooter (Unreal Engine)
 ![ZombieFPS - Unreal Editor 2024-10-14 2_44_16 PM](https://github.com/user-attachments/assets/dcba7d13-d12b-4a81-91b6-6153cadc32a8)
