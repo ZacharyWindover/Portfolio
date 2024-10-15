@@ -52,9 +52,11 @@ Inspired by the file sharing application, I plan on making an array of programs 
 
 ### E-Commerce Website (HTML)(CSS)(JS)
 
+### Social Network (PHP)
+
 ### POS System 
   
-### Social Network (PHP)
+
 
 
   
