@@ -19,7 +19,7 @@ A group project with Andrew Clegg for an Interactive Media course where we creat
 
   
 ### Ray Tracing Implementation (C++) (OpenGL) (OpenMP)
-An individual project for Advanced Graphics and Parallel Programming courses, I created and improved upon on a ray tracing program that took simple 3D shapes (cubes and spheres) with basic materials (solid colours and chromatic reflective surfaces), and rendered ppm images using ray tracing. The program had user input with command prompt, where the user would enter the image width, samples per pixel, max depth, and render type (the lighting, objects, and their positions were hard coded), and the program would return a ppm image. The program used the command line to output and update the amount of lines remaining to create the image.
+#### An individual project for Advanced Graphics and Parallel Programming courses, I created and improved upon on a ray tracing program that took simple 3D shapes (cubes and spheres) with basic materials (solid colours and chromatic reflective surfaces), and rendered ppm images using ray tracing. The program had user input with command prompt, where the user would enter the image width, samples per pixel, max depth, and render type (the lighting, objects, and their positions were hard coded), and the program would return a ppm image. The program used the command line to output and update the amount of lines remaining to create the image.
 
 ![testing  (imported)-2 0 (RGB color 8-bit gamma integer, GIMP built-in sRGB, 1 layer) 1920x1080 – GIMP 10_14_2024 2_40_00 PM](https://github.com/user-attachments/assets/0872024b-2b6b-4614-ae40-e1410e6e0b95)
 
@@ -29,7 +29,7 @@ An individual project for Advanced Graphics and Parallel Programming courses, I 
 ![Online Book System Sample Implementation 2024-10-14 2_30_42 PM](https://github.com/user-attachments/assets/64e9085d-97e2-4448-8bf8-63e65dde97d9)
 
 ### File Sharing System (Java) (Java.io) (Java FX)
-A basic file sharing application using Java sockets and JavaFX. This was the first version, made for a Systems Development & Integration course.
+#### A basic file sharing application using Java sockets and JavaFX. This was the first version, made for a Systems Development & Integration course.
 
 ![File Sharing Server Client 2024-10-14 4_08_41 PM](https://github.com/user-attachments/assets/608890c6-9c8d-4803-a9af-3af9ec9f634c)
 
@@ -37,17 +37,18 @@ A basic file sharing application using Java sockets and JavaFX. This was the fir
 
 
 ## Projects I'm Currently Working On:
-- First-Person Zombie shooter (Unreal Engine)
+
+###First-Person Zombie shooter (Unreal Engine)
 ![ZombieFPS - Unreal Editor 2024-10-14 2_44_16 PM](https://github.com/user-attachments/assets/dcba7d13-d12b-4a81-91b6-6153cadc32a8)
 
-- AI Chatbot (Python) (PyTorch)
-  A decoder-only transformer-type neural network large language model. Currently in early production.
+### AI Chatbot (Python) (PyTorch)
+#### A decoder-only transformer-type neural network large language model. Currently in early production.
 
-- File Sharing System (V0.2) (Java) (.io) (JavaFX)
-  Building upon the first variation of my file sharing application, I plan on adding numerous features such as proper accounts and login, reformatting the layout to be more user-friendly and organized, have a built-in file viewer, and add and expand other features.
+### File Sharing System (V0.2) (Java) (.io) (JavaFX)
+#### Building upon the first variation of my file sharing application, I plan on adding numerous features such as proper accounts and login, reformatting the layout to be more user-friendly and organized, have a built-in file viewer, and add and expand other features.
 
-- Media Hub (Java)
-  Inspired by the file sharing application, I plan on making an array of programs similar to YouTube and Spotify/SoundCloud where people could upload videos, music, etc. The goal is to make a solid alternative to platforms like Twitch, YouTube, and Amazon Music, who have terrible practices, are unfair and obviously biased towards certain types of streamers, and have terrible copyright and user support.
+### Media Hub (Java)
+#### Inspired by the file sharing application, I plan on making an array of programs similar to YouTube and Spotify/SoundCloud where people could upload videos, music, etc. The goal is to make a solid alternative to platforms like Twitch, YouTube, and Amazon Music, who have terrible practices, are unfair and obviously biased towards certain types of streamers, and have terrible copyright and user support.
 
 - E-Commerce Website (HTML)(CSS)(JS)
 
