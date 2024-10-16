@@ -1,6 +1,6 @@
 # This is a Virtual Portfolio showcasing some of my best projects, the projects I've put the most effort into that I'm confident to showcase as the summation of my learning at Ontario Tech University 
 
-## Projects Completed In University:
+## Projects Completed In University
 
 ### First-Person Shooter Game (C#) (Unity)
 A group project with Andrew Clegg for an Interactive Media course where we createda a rough implementation of a first-person shooter video game concept using the Unity game engine.
@@ -36,7 +36,7 @@ A basic file sharing application using Java sockets and JavaFX. This was the fir
 ![File Sharing Server Client 2024-10-14 4_08_51 PM](https://github.com/user-attachments/assets/8f55e299-d1a7-4fd4-a16c-d23654351b54)
 
 
-## Projects I'm Currently Working On:
+## Projects I'm Currently Working On
 
 ### First-Person Zombie shooter (Unreal Engine)
 ![ZombieFPS - Unreal Editor 2024-10-14 2_44_16 PM](https://github.com/user-attachments/assets/dcba7d13-d12b-4a81-91b6-6153cadc32a8)
@@ -50,6 +50,7 @@ Building upon the first variation of my file sharing application, I plan on addi
 ### Media Suite (Java)
 Inspired by the file sharing application, I plan on making an array of programs similar to YouTube and Spotify/SoundCloud where people could upload videos, music, etc. The goal is to make a solid alternative to platforms like Twitch, YouTube, and Amazon Music, who have terrible practices, are unfair and obviously biased towards certain types of streamers, and have terrible copyright and user support.
 
+## Planned Projects
 ### E-Commerce Website (HTML)(CSS)(JS)
 
 ### Social Network (PHP)
