@@ -1,4 +1,4 @@
-# This is a Virtual Portfolio showcasing some of my best projects, the projects I've put the most effort into that I'm confident to showcase as the summation of my learning at Ontario Tech University 
+# This is a Virtual Portfolio showcasing some of my largest projects and thr projects I've put the most effort into while learning at Ontario Tech University and beyond.
 
 ## Projects Completed In University
 
@@ -43,6 +43,9 @@ A basic file sharing application using Java sockets and JavaFX. This was the fir
 
 ### AI Chatbot (Python) (PyTorch)
 A decoder-only transformer-type neural network large language model. Currently in early production.
+
+### Climate Summary Data Handling (Python) (Pandas) (Selenium) (Matplotlib)
+A console-based program that takes a countries.csv file as input, which contains country names and summary data URLs, and will automatically download the data using selenium, compile the data using pandas, and display generated graphs and tables uding matplotlib.
 
 ### File Sharing System (V0.2) (Java) (.io) (JavaFX)
 Building upon the first variation of my file sharing application, I plan on adding numerous features such as proper accounts and login, reformatting the layout to be more user-friendly and organized, have a built-in file viewer, and add and expand other features.
