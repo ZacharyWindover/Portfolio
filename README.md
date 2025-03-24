@@ -1,4 +1,4 @@
-# This is a Virtual Portfolio showcasing some of my largest projects and the projects I've put the most time and effort into while learning at Ontario Tech University and post-graduation.
+# This is a Virtual Portfolio showcasing some of my largest projects, and the projects I've put the most time and effort into while learning at Ontario Tech University and post-graduation.
 
 ## Projects Completed In University
 
@@ -42,7 +42,7 @@ A basic file sharing application using Java sockets and JavaFX. This was the fir
 ![ZombieFPS - Unreal Editor 2024-10-14 2_44_16 PM](https://github.com/user-attachments/assets/dcba7d13-d12b-4a81-91b6-6153cadc32a8)
 
 ### AI Chatbot (Python) (PyTorch)
-A decoder-only transformer-type neural network large language model. Currently in early production.
+A project dedicated to exploring NLP, LLMs, and how different model variations affect performance and function. Currently in early development.
 
 ### Climate Summary Data Handling (Python) (Pandas) (Selenium) (Matplotlib)
 A console-based program that takes a countries.csv file as input, which contains country names and summary data URLs, and will automatically download the data using selenium, compile the data using pandas, and display generated graphs and tables uding matplotlib.
