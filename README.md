@@ -1,4 +1,4 @@
-# This is a Virtual Portfolio showcasing some of my largest projects and thr projects I've put the most effort into while learning at Ontario Tech University and beyond.
+# This is a Virtual Portfolio showcasing some of my largest projects and the projects I've put the most time and effort into while learning at Ontario Tech University and post-graduation.
 
 ## Projects Completed In University
 
