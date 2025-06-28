@@ -19,7 +19,7 @@ A group project with Andrew Clegg for an Interactive Media course where we creat
 
   
 ### Ray Tracing Implementation (C++) (OpenGL) (OpenMP)
-An individual project for Advanced Graphics and Parallel Programming courses, I created and improved upon on a ray tracing program that took simple 3D shapes (cubes and spheres) with basic materials (solid colours and chromatic reflective surfaces), and rendered ppm images using ray tracing. The program had user input with command prompt, where the user would enter the image width, samples per pixel, max depth, and render type (the lighting, objects, and their positions were hard coded), and the program would return a ppm image. The program used the command line to output and update the amount of lines remaining to create the image.
+An individual project for Advanced Graphics and Parallel Programming courses, I improved upon on a ray tracing program that took simple 3D shapes (cubes and spheres) with basic materials (solid colours and chromatic reflective surfaces), and rendered ppm images using ray tracing. The program had user input with command prompt, where the user would enter the image width, samples per pixel, max depth, and render type (the lighting, objects, and their positions were hard coded), and the program would return a ppm image. The program used the command line to output and update the amount of lines remaining to create the image.
 
 ![testing  (imported)-2 0 (RGB color 8-bit gamma integer, GIMP built-in sRGB, 1 layer) 1920x1080 – GIMP 10_14_2024 2_40_00 PM](https://github.com/user-attachments/assets/0872024b-2b6b-4614-ae40-e1410e6e0b95)
 
