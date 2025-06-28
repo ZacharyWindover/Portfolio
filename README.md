@@ -3,7 +3,7 @@
 ## Projects Completed In University
 
 ### First-Person Shooter Game (C#) (Unity)
-A group project with Andrew Clegg for an Interactive Media course where we createda a rough implementation of a first-person shooter video game concept using the Unity game engine.
+A group project with Andrew Clegg for an Interactive Media course where we created a a rough implementation of a first-person shooter video game concept using the Unity game engine.
 
 ![major-group-project-2-clegg-windover - Scenario 1 - Windows, Mac, Linux - Unity 2022 3 16f1 _DX11_ 10_14_2024 2_54_18 PM](https://github.com/user-attachments/assets/65017844-050f-4677-b547-99319a8d8a43)
 
