@@ -1,4 +1,4 @@
-#### Overview of my past programming projects
+## Overview of my past programming projects
 
 ### First-Person Shooter Game (C#) (Unity)
 A group project with Andrew Clegg for an Interactive Media course where we created a a rough implementation of a first-person shooter video game concept using the Unity game engine.
