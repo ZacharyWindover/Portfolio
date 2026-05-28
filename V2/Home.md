@@ -1,0 +1,2 @@
+# The latest version of my digital portfolio
+I was dissatisfied with the previous version of my portfolio, which I felt was a bit disorganized. So I am reorganizing to better reflect my future aspirations. 
